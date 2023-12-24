@@ -10,6 +10,8 @@ python = "^3.11"
 jupyter = "^1.0.0"
 numpy = "^1.26.2"
 tqdm = "^4.66.1"
+networkx = "^3.2.1"
+matplotlib = "^3.8.2"
 
 
 
